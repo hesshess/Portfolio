@@ -515,7 +515,7 @@ align align-items:flex-start;
 }
 
 .about__majors{
-  font-display: column;
+  flex-direction: column;
   
 }
 .major{
