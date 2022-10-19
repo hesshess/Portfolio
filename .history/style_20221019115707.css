@@ -602,13 +602,11 @@ margin-bottom: 38px;
   width:80px;
   height:80px;
 }
-
-.testimonial__description{
+.testimonial__avatar:hover{
   width:80px;
   height:80px;
-  font-size: 0.4em;
- }
- .testimonial__description h3{
-  font-size: 0.4em;
- }
+}
+
+
+
 }

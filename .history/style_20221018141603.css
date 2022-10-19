@@ -211,7 +211,7 @@ p {
 /* About */
 .about__majors {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   margin: 80px 0;
 }
 
@@ -421,7 +421,6 @@ flex-basis: 40%;
    transition: all var(--animation-duration) ease-in;
  }
  .testimonial__description{
-  padding: 10px;
   font-size: 0.7em;
   width:150px;
   height:150px;
@@ -458,7 +457,7 @@ transform:translateY(0px);
 
 /* testimonial */
 #testimonials{
-  background-color:#FFECBF;
+  background-color: var(--color-light-white);
 
 }
 
@@ -603,12 +602,6 @@ margin-bottom: 38px;
   height:80px;
 }
 
-.testimonial__description{
-  width:80px;
-  height:80px;
-  font-size: 0.4em;
- }
- .testimonial__description h3{
-  font-size: 0.4em;
- }
+
+
 }

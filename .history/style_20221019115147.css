@@ -458,7 +458,7 @@ transform:translateY(0px);
 
 /* testimonial */
 #testimonials{
-  background-color:#FFECBF;
+  background-color:rgb(255, 186, 191) #FFECBF;
 
 }
 
@@ -603,12 +603,6 @@ margin-bottom: 38px;
   height:80px;
 }
 
-.testimonial__description{
-  width:80px;
-  height:80px;
-  font-size: 0.4em;
- }
- .testimonial__description h3{
-  font-size: 0.4em;
- }
+
+
 }
